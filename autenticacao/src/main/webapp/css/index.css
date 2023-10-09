@@ -1,0 +1,19 @@
+button{
+    margin-left: 420px;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.mx-auto{
+    width: 600px;
+}
+
+.alert{
+    background-color: red;
+    color: white;
+    width: 300px;
+    border: 0px;
+}
