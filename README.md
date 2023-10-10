@@ -4,4 +4,4 @@ Este código foi desenvolvido agora que eu estou no terceiro ano do meu curso de
 
 É um sistema de autenticação de usuário usando o Servlet.
 
-Linguagens usadas: 
+Linguagens usadas: HTML, CSS, Java e JSP.
